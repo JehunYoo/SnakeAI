@@ -11,6 +11,3 @@ main.py                   | Doing
 snake.py                  | almost Done
 genetic_neural_network.py | Doing
 snake_game.py             | Done
-<br>
-
-![snake_image](C:\Users\YooJehun\Desktop\snake_image.png)
