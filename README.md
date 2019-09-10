@@ -1,10 +1,12 @@
 # SnakeRL
 Snake Game Reinforcement Learning using Genetic Algorithm
+
 <br>
 
 - input data
   - game dispaly image (CNN)
   - positional information
+
 <br>
 
 module name               | development progress
