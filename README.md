@@ -6,7 +6,7 @@ Snake Game Reinforcement Learning using Genetic Algorithm
   - positional information
 
 module name               | development progress
--------------------------:|:---------------------
+:------------------------:|:---------------------:
 main.py                   | Doing
 snake.py                  | almost Done
 genetic_neural_network.py | Doing
