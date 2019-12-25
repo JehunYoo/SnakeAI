@@ -1,4 +1,3 @@
-# SnakeRL
 Snake Game Reinforcement Learning using Genetic Algorithm
 
 <br>
