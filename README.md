@@ -1,3 +1,8 @@
+---
+layout: page
+title: SnakeAI
+description: this page is about Snake Game Reinforcement Learning
+---
 Snake Game Reinforcement Learning using Genetic Algorithm
 
 <br>
