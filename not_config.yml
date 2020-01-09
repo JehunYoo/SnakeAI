@@ -1,0 +1,39 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: /blog/:title
+
+# Setup
+title: The Cosmos
+tagline: Jehun Yoo's blog
+description: "Mainly about Computer Science & Artificial Intelligence & Physics."
+baseurl: ""
+url: "http://jehunyoo.github.io"
+paginate: 2
+paginate_path: 'blog/page:num/'
+
+# About/contact
+author:
+  name: Jehun Yoo
+  url:  https://github.com/jehunyoo
+  email: percyu98@gmail.com
+
+# Custom vars
+version: 1.0.0
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Blog
+    url: /blog/
+  - text: Tags
+    url: /tags/
+  - text: Projects
+    url: /projects/
