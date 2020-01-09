@@ -1,3 +1,8 @@
+---
+layout: default
+title: "SnakeAI"
+description: "Snake Game Reinforcement Learning using Genetic Algorithm"
+---
 Snake Game Reinforcement Learning using Genetic Algorithm
 
 <br>
