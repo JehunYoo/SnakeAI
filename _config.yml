@@ -5,8 +5,13 @@
 title: The Cosmos
 tagline: Jehun Yoo's blog
 description: "Mainly about Computer Science & Artificial Intelligence & Physics."
+<<<<<<< HEAD
 baseurl: "/SnakeAI"
 url: "http://jehunyoo.github.io/SnakeAI"
+=======
+# baseurl: ""
+# url: "http://jehunyoo.github.io/SnakeAI"
+>>>>>>> 9b96bcb20a504c0428ae6967ee98ac7e277a14ff
 
 # About/contact
 author:
