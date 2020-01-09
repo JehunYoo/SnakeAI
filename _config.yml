@@ -1,0 +1,22 @@
+# Permalinks
+# permalink: 
+
+# Setup
+title: The Cosmos
+tagline: Jehun Yoo's blog
+description: "Mainly about Computer Science & Artificial Intelligence & Physics."
+baseurl: "../"
+url: "http://jehunyoo.github.io/SnakeAI"
+
+# About/contact
+author:
+  name: Jehun Yoo
+  url:  https://github.com/jehunyoo
+  email: percyu98@gmail.com
+
+# Custom vars
+version: 1.0.0
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
